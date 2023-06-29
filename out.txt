@@ -1,0 +1,3 @@
+File transfer is the process of copying or moving a file from a computer to another over a network or Internet connection. In this tutorial we'll go step by step on how you can write quick client/server Python scripts that handles that.
+
+The basic idea is to create a server that listens on a particular port, this server will be responsible for receiving files (you can make the server sends files as well). On the other hand, the client will try to connect to the server and send any file of any type.
